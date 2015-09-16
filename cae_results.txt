@@ -1,0 +1,9 @@
+ * Training on 50words.
+ * Training on Adiac.
+ * Training on ArrowHead.
+ * Training on ARSim.
+ * Training on Beef.
+ * Training on BeetleFly.
+ * Training on BirdChicken.
+ * Training on Car.
+ * Training on CBF.
